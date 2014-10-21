@@ -25,6 +25,6 @@ Exercises
 
 The source code for the exercises, including complete solutions, is available in a [separate repository].
 
-If you are about to attend this workshop, **don't look ahead at the exercises or solutions**. You'll cheat yourself out of valuable learning!
+If you are about to attend this workshop, **don't look ahead at the exercises or solutions**. You'll spoil the fun and could cheat yourself out of valuable learning!
 
 [separate repository]: https://github.com/underscoreio/eescala-code
